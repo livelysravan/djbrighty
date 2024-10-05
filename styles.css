@@ -54,8 +54,8 @@ nav {
 }
 
 .profile-image img {
-    width: 100px; /* Adjust size as needed */
-    height: 100px;
+    width: 200px; /* Increase size */
+    height: 200px; /* Increase size */
     border-radius: 50%;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
     transition: transform 0.3s ease;
